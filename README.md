@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently Frontend Developer.
 - 💻 Bachelor of Faculty of Computer and information (IS Department).
-- ♦️ I also have experience with Flutter.
+- ♦️ I also have knowledge with Flutter.
 - ⚡ Fun fact: Hello World!
 - 🔗 Check out my latest repositories from [here.](https://github.com/muhammedosama8)
 
