@@ -7,8 +7,8 @@
 
 ## <img src="https://media.giphy.com/media/DszEfAXkoLPF0rgv4r/giphy.gif" width="20px" height="20px"> GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=muhammedosama8" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=muhammedosama8" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=muhammedosama8" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=muhammedosama8" height="150" alt="languages graph"  />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=muhammedosama8&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
