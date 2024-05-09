@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&width=320&height=40&lines=Hi%2C+I'm+Muhammed+Osama">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&width=320&height=40&lines=Hi%2C+I'm+Muhammed+Osama%2C%2C%2C">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
 </h1>
 
